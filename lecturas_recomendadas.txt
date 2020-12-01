@@ -1,0 +1,5 @@
+Lectura de Kafka.
+- https://docs.confluent.io/platform/current/installation/configuration/consumer-configs.html
+- https://kafka.apache.org/
+- https://docs.confluent.io/home/clients/overview.html
+- https://docs.confluent.io/clients-kafka-java/current/
